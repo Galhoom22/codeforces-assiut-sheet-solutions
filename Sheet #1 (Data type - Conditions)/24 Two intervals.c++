@@ -1,7 +1,7 @@
 // link : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X
 /*
     pseudocode
-	1. Define function findIntersection(l1, r1, l2, r2)
+    1. Define function findIntersection(l1, r1, l2, r2)
     2. Set start = max(l1, l2)
     3. Set end = min(r1, r2)
     4. If start ≤ end Then
