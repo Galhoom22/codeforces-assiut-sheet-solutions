@@ -2,8 +2,8 @@
 /*
     pesudocode
 	to avoid overflow, we will use modulo 100 for each multiplication
-	    1. set A, B, C, D
-	    2. read A, B, C, D
+	1. set A, B, C, D
+	2. read A, B, C, D
         3. set result = 1
         4. set result = (result * A) % 100
         5. set result = (result * B) % 100
