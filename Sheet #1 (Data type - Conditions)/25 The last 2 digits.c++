@@ -10,16 +10,16 @@
         6. set result = (reuslt * C) % 100
         7. set result = (result * D) % 100
         8. if result < 10:
-           print "0" + result
+             print "0" + result
         9. else:
-		    print result
+	     print result
 */
 #include <iostream>
 using namespace std;
 int main()
 {
-	long long A, B, C, D; // long long to handle large numbers
-	cin >> A >> B >> C >> D;
+    long long A, B, C, D; // long long to handle large numbers
+    cin >> A >> B >> C >> D;
     long long result = 1;
     result = (result * A) % 100;
     result = (result * B) % 100;
