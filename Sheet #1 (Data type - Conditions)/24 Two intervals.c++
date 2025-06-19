@@ -1,12 +1,13 @@
 // link : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X
 /*
     pseudocode
-    1. Define function findIntersection(l1, r1, l2, r2)
-    2. Set start = max(l1, l2)
-    3. Set end = min(r1, r2)
-    4. If start ≤ end Then
+    1. set l1, r1, l2, r2
+    2. read l1, r1, l2, r2
+    3. Set start = max(l1, l2)
+    4. Set end = min(r1, r2)
+    5. If start ≤ end Then
             Print start, end
-       Else
+    6.  Else
             Print -1
 */
 #include <iostream>
