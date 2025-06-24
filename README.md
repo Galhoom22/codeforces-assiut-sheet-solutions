@@ -12,21 +12,25 @@ Each sheet is organized clearly to help students follow a structured path while 
 - Focus: Basic input/output, conditionals (if/else).
 - [🔗 Sheet Link](https://codeforces.com/group/MWSDmqGsZm/contest/219158)
 
+### 🧮 Contest #1
+- Problems based on Sheet #1 and #2 topics.
+- [🔗 Contest Link](https://codeforces.com/group/MWSDmqGsZm/contest/326175)
+
 ### 🔁 Sheet #2 – Loops
 - Focus: Repetition with `for` and `while` loops.
 - [🔗 Sheet Link](https://codeforces.com/group/MWSDmqGsZm/contest/219432)
 
-### 🧮 Contest #1
-- Problems based on Sheet #1 and #2 topics.
-- [🔗 Contest Link](https://codeforces.com/group/MWSDmqGsZm/contest/326175)
+### 🧪 Contest #2
+- Problems focused on array logic and loops.
+- [🔗 Contest Link](https://codeforces.com/group/MWSDmqGsZm/contest/326907)
 
 ### 📊 Sheet #3 – Arrays
 - Focus: 1D arrays, basic traversals, and aggregations.
 - [🔗 Sheet Link](https://codeforces.com/group/MWSDmqGsZm/contest/219774)
 
-### 🧪 Contest #2
-- Problems focused on array logic and loops.
-- [🔗 Contest Link](https://codeforces.com/group/MWSDmqGsZm/contest/326907)
+### 🏁 Contest #3.1
+- Problems combining recursion, strings, and math logic.
+- [🔗 Contest Link](https://codeforces.com/group/MWSDmqGsZm/contest/329103)
 
 ### ✂️ Sheet #4 – Strings
 - Focus: String manipulations and character analysis.
@@ -56,9 +60,6 @@ Each sheet is organized clearly to help students follow a structured path while 
 - Focus: Advanced-level challenges for expert practice.
 - [🔗 Sheet Link](https://codeforces.com/group/MWSDmqGsZm/contest/223340)
 
-### 🏁 Contest #3.1
-- Problems combining recursion, strings, and math logic.
-- [🔗 Contest Link](https://codeforces.com/group/MWSDmqGsZm/contest/329103)
 
 ## 📌 Notes
 - All solutions are written in **C++**.
