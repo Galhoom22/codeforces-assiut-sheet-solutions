@@ -1,4 +1,12 @@
-// link : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
+/*
+    Problem: A. Say Hello With C++
+    Sheet: Assiut Sheet #1 (Data type - Conditions)
+    Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
+    
+    Time Complexity: O(1)
+    Space Complexity: O(1)
+*/
+
 #include <iostream>
 using namespace std;
 
@@ -10,3 +18,4 @@ int main()
     return 0;
 
 }
+
